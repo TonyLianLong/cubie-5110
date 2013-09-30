@@ -9,7 +9,7 @@ I am TLL,you can contect me at:
 Email:1040424979@qq.com
 QQ:1040424979
 And my blog:http://www.tonylianlong.com (In Chinese,the best choice)
-[Is it any wrong?!Tell me!!]
+[Is it wrong?!Tell me!!]
 
 OK,Let me tell you what can you do:
 LcdPrint  print EN string
@@ -17,7 +17,7 @@ LcdPrintFull  print Full string like CN
 LcdInitialise  Init
 LcdClear  clear,you know
 Scroll  print scroll string
-[Is it any wrong?!Tell me!!]
+[Is it wrong?!Tell me!!]
 LcdFPrintFull  print Full string by black bg and white text
 drawHLine  draw Line and a point
 drawBox  draw a box
