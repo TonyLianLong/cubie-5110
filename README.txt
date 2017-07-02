@@ -5,11 +5,6 @@ By TLL and it use sunduino[2] library,it also use aguegu's Bitmapfont library(ht
 Sunduino[2] is a part or Sunduino(Sunxi arduino),it means we can copy the codes on arduino and paste it on your sunxi device(like Cubie),Then try a little modify,OK,then you can run it on your sunxi device!
 This code is from arduino and I modify it,you can see "setup()" and "loop()" on "5110.h".
 Good software helps I study.
-I am TLL,you can contect me at:
-Email:1040424979@qq.com
-QQ:1040424979
-And my blog:http://www.tonylianlong.com (In Chinese,the best choice)
-[Is it wrong?!Tell me!!]
 
 OK,Let me tell you what can you do:
 LcdPrint  print EN string
